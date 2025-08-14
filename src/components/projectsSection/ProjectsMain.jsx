@@ -5,11 +5,11 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "ZEPTO_Dashboard",
+    year: "Aug_2025",
     align: "right",
-    image: "Portfolio_website/public/images/website-img-1.jpg",
-    link: "#",
+    image: "Portfolio_website/public/images/website-img-1.png",
+    link: "https://github.com/tanaysali/ZEPTO_Dashboard",
   },
   {
     name: "Moola App",
