@@ -8,7 +8,7 @@ const projects = [
     name: "ZEPTO_Dashboard",
     year: "Aug_2025",
     align: "right",
-    image: "/images/web_img_1.png",
+    image: "/images/website-img-1.png",
     link: "https://github.com/tanaysali/ZEPTO_Dashboard",
   },
   {
