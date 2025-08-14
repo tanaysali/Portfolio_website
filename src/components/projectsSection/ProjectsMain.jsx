@@ -15,7 +15,7 @@ const projects = [
     name: "Telegram_Chatbot_using_Python",
     year: "Sept2024",
     align: "left",
-    image: "images/website-img-2.webp",
+    image: "images/website-img-2.jpg",
     link: "https://github.com/tanaysali/Telegram_bot",
   },
   {
